@@ -1,9 +1,5 @@
 let result = document.getElementById('resultContainer').value
 
-var value1 = 0
-var value2 = 0
-var sign = 0
-
 const buttons = document.querySelectorAll('button');
 const resultText = document.getElementById('resultText');
 
